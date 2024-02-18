@@ -1,6 +1,5 @@
-layout: post
-title: "My First Post"
-date: 2024-02-19 01:06
+title: "post1"
+date: 2024-02-19
 author: K.E.
 
 # Introduction 
