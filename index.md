@@ -1,8 +1,12 @@
-title: MY Blog
+title: "My Blog"
 date: 2024-02-19 10:00:00 +0300
-categories: [Tech, Programming]
-tag : [CS,ML]
-author E.F.
+categories: 
+  - Tech
+  - Programming
+tags: 
+  - CS
+  - ML
+author: "E.F."
 
 # TODAY I LEARNED SOMETHING
 
