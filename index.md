@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "TODAY I LEARNED SOMETHING"
 date: 2024-02-19 01:56:00 +0300
 categories: 
